@@ -1,6 +1,6 @@
 # Image Classifier Project
 
-This project demonstrates using PyTorch to develop an image classifier for 102 flower species. It incorporates transfer learning through networks provided by TorchVision. You can see full details on how the model was trained and how it makes predictions in this [Jupyter notebook](/Image%20Classifier%20Project/Image%20Classifier%20Project.ipynb).
+This project demonstrates using PyTorch to develop an image classifier for 102 flower species. It incorporates transfer learning through networks provided by TorchVision. You can see full details on how the model was trained and how it makes predictions in this [Jupyter notebook](https://github.com/morinoko/pytorch-flower-classifier/blob/master/Image%20Classifier%20Project.ipynb).
 
 ## Requirements
 
